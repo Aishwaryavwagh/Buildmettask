@@ -1,0 +1,31 @@
+.btn-primary{
+    background:linear-gradient(45deg,black,purple) !important;
+    box-shadow: 0 0 15px purple;
+   
+}
+.btn-success{
+    background:linear-gradient(45deg,black,green) !important;
+    box-shadow: 0 0 15px green;
+   
+}
+.btn-danger{
+    background:linear-gradient(45deg,black,rgb(0,0,50)) !important;
+    box-shadow: 0 0 15px rgb(0,0,50);
+   
+}
+.card{
+    width: 400px !important;
+    border-radius: 50px;
+}
+img{
+    width: 400x !important;
+    height: 300px !important;
+    
+}
+.btn{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 50%;
+}
+
+
